@@ -13,9 +13,6 @@ Software Engineer with experience in delivering high-quality web applications. P
 </p>
 
 <div align="center">
-  <a href="https://github.com/your-repo">
-    <img src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-blue?style=for-the-badge&logoColor=white&logo=repo" alt="my repos"/>
-  </a>
   <a href="mailto:davidac099@gmail.com">
     <img src="https://custom-icon-badges.demolab.com/badge/-davidac099@gmail.com-green?style=for-the-badge&logo=mention&logoColor=white" alt="email"/>
   </a>
